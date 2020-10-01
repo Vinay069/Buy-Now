@@ -20,7 +20,7 @@ Still, a lot of improvements can be performed including Frontend as well as Back
 
 * [Fork the repository](https://github.com/ashutoshkrris/Buy-Now/fork) and clone the forked repository.
 
-* Change the working directory to the folder where you downloaded the files.
+* Change the working directory to the folder where you have downloaded the files.
 
 * Install all the dependencies using the pipenv command :
 
